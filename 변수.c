@@ -4,6 +4,6 @@
 {
 	int money;
 	money = 3000;
-	printf("money¿¡ ÀúÀåµÈ °ªÀº %d", money);
+	printf("moneyÂ¿Â¡ Ã€ÃºÃ€Ã¥ÂµÃˆ Â°ÂªÃ€Âº %d", money);
 
 }
